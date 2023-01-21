@@ -11,7 +11,7 @@ const Footer = () => {
         href="https://www.linkedin.com/in/kherakshay/"
         style={{ cursor: "pointer" }}
       >
-        Akshay Kher
+        Mamad Alyani
       </a>
     </div>
   );
