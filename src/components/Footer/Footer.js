@@ -8,7 +8,7 @@ const Footer = () => {
     >
       Made with ♥ by{" "}
       <a
-        href="https://www.linkedin.com/in/kherakshay/"
+        href="https://www.linkedin.com/in/alyanimamad/"
         style={{ cursor: "pointer" }}
       >
         Mamad Alyani
