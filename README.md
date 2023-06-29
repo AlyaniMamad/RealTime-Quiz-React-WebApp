@@ -1,6 +1,5 @@
 # Real-Time-Quiz
 
-Welcome to my awesome project!
 <h2 Align="center">Home Page</h2>
 
 ![Demo](https://github.com/AlyaniMamad/Live-Webs-GIFs/blob/Alyani/RTZ.png)
